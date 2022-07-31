@@ -1,0 +1,17 @@
+3. (EQUITY)Large and midcap - Kotak Equity Opportunities fund
+4. (EQUITY)Flexi cap - Parag Parekh flexi cap fund (Invests in MANG companies)
+6. (NOT FOUND: INDEX)UTI Nifty 200 Momentum 30 Index Fund
+
+7. (INDEX)UTI Nifty Index Fund
+8. (INDEX)Large cap - HDFC Index S&P BSE Sensex fund
+
+9. (SECTORAL)ICICI prudential Technology fund.
+
+Points to look for:
+1. check which cap(mid/sml/lrg) stocks are invested by the index.
+2. check expense ratio and CAGR(Compound annual growth rate).
+
+ASSETS UNDER MGMT(AUM)
+(REFERRAL link)https://zerodha.com/open-account?c=TSB302 
+(ticker_tape link)https://www.tickertape.in/screener/mutual-fund
+(value_research link)https://www.valueresearchonline.com/funds
